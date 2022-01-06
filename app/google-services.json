@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "766827261137",
+    "project_id": "appseguridad-a39cf",
+    "storage_bucket": "appseguridad-a39cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766827261137:android:b4957e8ebe4f762b5429f0",
+        "android_client_info": {
+          "package_name": "com.lemuniz.app_seguridad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766827261137-8rr22se23hm7molk6f88qfkmdpkvad3u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lemuniz.app_seguridad",
+            "certificate_hash": "f8a59d02b308d6e1d0e86045688a86f5d43727b7"
+          }
+        },
+        {
+          "client_id": "766827261137-cquqgt1hgs6mo189oufjfnpslincm4je.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXNG7UGQpqXuub5Q5indumBTRaJ9vqzEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766827261137-cquqgt1hgs6mo189oufjfnpslincm4je.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

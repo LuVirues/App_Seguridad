@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">App_Seguridad</string>
+    <string name="phone_description">Ingresa tu número de télefono. Te enviaremos un SMS que incluye un código de verficiación</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="navigation_drawer_open">Abrir navegador</string>
+    <string name="navigation_drawer_close">Cerrar navegador</string>
+</resources>
